@@ -6,15 +6,20 @@ export const defaultLightModeLogo = "./logos/logo_atomic_crm_light.svg";
 export const defaultTitle = "Atomic CRM";
 
 export const defaultCompanySectors = [
+  "Mining",
+  "Retail",
+  "Telco",
+  "Pharma",
+  "Transportation",
+  "Banking",
+  "Hospitality",
   "Communication Services",
-  "Consumer Discretionary",
-  "Consumer Staples",
+  "Consumer",
   "Energy",
   "Financials",
   "Health Care",
   "Industrials",
   "Information Technology",
-  "Materials",
   "Real Estate",
   "Utilities",
 ];
@@ -35,10 +40,14 @@ export const defaultDealPipelineStatuses = ["won"];
 
 export const defaultDealCategories = [
   "Other",
-  "Copywriting",
-  "Print project",
-  "UI Design",
-  "Website design",
+  "E-commerce",
+  "SAP",
+  "Salesforce",
+  "Custom-Dev",
+  "IA",
+  "Methodology",
+  "Consulting",
+  "Cloudflare",
 ];
 
 export const defaultNoteStatuses = [
